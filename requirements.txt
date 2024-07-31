@@ -1,0 +1,24 @@
+pandas
+# sentence_transformers
+chromadb
+# huggingface_pipeline
+# langchain-huggingface
+# transformers
+python-dotenv
+# rag_from_scratch
+# langchain_community
+# tiktoken
+# langchain-openai
+# langchainhub
+#chromadb
+langchain
+# langsmith
+#ingest_from_web
+# bs4
+#OpenAI Without Langchain
+openai
+#Huzaifa
+# pypdf
+# FAST API
+fastapi
+uvicorn[standard]
